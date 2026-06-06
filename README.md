@@ -49,7 +49,7 @@ Match Score + Skill Suggestions
 Installation -
 
 Clone the repository:
-git clone https://github.com/yjitesh1234-gif
+git clone https://github.com/yjitesh1234-gif/resume_scaneer-_project
 cd resume-scanner
 Install dependencies:
 pip install -r requirements.txt
